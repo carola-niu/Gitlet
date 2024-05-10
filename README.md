@@ -21,4 +21,4 @@ Implemented Features:
 
 
 
-Here is the full specs: https://cs61bl.org/su17/materials/proj/proj2/proj2.html.
+Here are the full specs: [CS61B Sp21 Proj2](https://sp21.datastructur.es/materials/proj/proj2/proj2)
